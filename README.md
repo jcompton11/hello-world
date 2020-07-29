@@ -1,2 +1,5 @@
 # hello-world
-Just another public repository.
+
+Hi Humans,
+
+Jessica here. I love long walks, coding, and pizza.
